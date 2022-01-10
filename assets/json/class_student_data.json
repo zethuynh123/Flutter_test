@@ -1,0 +1,45 @@
+[
+    {
+        "nameClass" : "10A1",
+        "studentNumber": "23",
+        "achievements": "80",
+        "classMonitor": "Huỳnh Ngọc Duy"
+    }, 
+    {
+        "nameClass" : "10A2",
+        "studentNumber": "45",
+        "achievements": "79",
+        "classMonitor": "Đoàn Hoàng Hải"
+    },
+    {
+        "nameClass" : "10A3",
+        "studentNumber": "45",
+        "achievements": "78",
+        "classMonitor": "Nguyễn Văn Cao"
+    },
+    {
+        "nameClass" : "10A4",
+        "studentNumber": "32",
+        "achievements": "90",
+        "classMonitor": "Nguyễn Văn Sơn"
+    },
+    {
+        "nameClass" : "10A5",
+        "studentNumber": "34",
+        "achievements": "56",
+        "classMonitor": "Lê Văn Cao"
+    },
+    {
+        "nameClass" : "10A6",
+        "studentNumber": "46",
+        "achievements": "90",
+        "classMonitor": "Nguyễn Lê"
+    },
+    {
+        "nameClass" : "10A7",
+        "studentNumber": "45",
+        "achievements": "100",
+        "classMonitor": "Văn Từ"
+    }
+
+]
